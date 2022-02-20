@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.link-user{
+  text-decoration: none ;
+  margin-right: 15rem;
+  color:#d19929 ;
+  font-size: larger;
+
+
+}
+
+.link-count{
+  text-decoration: none ;
+  color:#d19929 ;
+  font-size: larger;  
+  
+
+}

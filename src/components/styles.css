@@ -1,0 +1,22 @@
+.user-ul{
+    list-style-type: none;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    font-size: larger;
+}
+
+.counter-button-one{
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    font-size: larger;
+}
+
+.counter-button-two{
+    margin-left: 2rem;
+    font-size: larger;
+}
+.counter-span{
+    margin-left: 2rem;
+    font-size: larger;
+}
+
